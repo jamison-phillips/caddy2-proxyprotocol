@@ -1,4 +1,4 @@
-module github.com/mastercactapus/caddy2-proxyprotocol
+module github.com/jamison-phillips/caddy2-proxyprotocol
 
 go 1.17
 
